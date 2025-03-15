@@ -35,30 +35,42 @@ function App() {
     let currentPart = "";
 
     lines.forEach((line) => {
-      // ✅ Detecting parts correctly
-      if (/^PART\s(I|II|III|IV)/.test(line.trim())) {
-        currentPart = line.trim();
-        console.log(`Detected Section: ${currentPart}`); // Debugging log
+      const cleanLine = line.replace(/\r/g, "").trim();
+
+      // ✅ Skip empty lines
+      if (!cleanLine) return;
+
+      // ✅ Detect section (PART I - IV)
+      if (/^PART\s(I|II|III|IV)/.test(cleanLine)) {
+        currentPart = cleanLine;
         return;
       }
 
-      const questionMatch = line.match(/^(\d+)\./);
-      const optionMatch = line.match(/^\((A|B|C|D?)\)\s(.+)/);
-
+      // ✅ Match question number
+      const questionMatch = cleanLine.match(/^(\d+)\./);
       if (questionMatch) {
         if (currentQuestion && Object.keys(currentQuestion.options).length > 0) {
           parsed.push(currentQuestion);
         }
+
+        // ✅ Extract question text manually
+        const questionText = cleanLine.replace(/^(\d+)\.\s*/, "").trim();
+
         currentQuestion = {
           id: parseInt(questionMatch[1]),
           question: (currentPart === "PART III" || currentPart === "PART IV")
-              ? questionMatch[2] // ✅ Extract full question for Part III & IV
-              : "", // ✅ No question text for Part I & II
+              ? questionText  // ✅ Now extracts the correct text
+              : "", // ✅ No question text for PART I & II
           options: {},
           part: currentPart,
         };
-      } else if (optionMatch && currentQuestion) {
-        currentQuestion.options[optionMatch[1]] = optionMatch[2];
+        return;
+      }
+
+      // ✅ Match options (A, B, C, D)
+      const optionMatch = cleanLine.match(/^\((A|B|C|D)\)\s*(.+)$/);
+      if (optionMatch && currentQuestion) {
+        currentQuestion.options[optionMatch[1]] = optionMatch[2].trim();
       }
     });
 
@@ -66,9 +78,10 @@ function App() {
       parsed.push(currentQuestion);
     }
 
-    console.log("Final Parsed Questions:", parsed); // ✅ Debugging Log
+    console.log("✅ Final Parsed Questions:", parsed);
     return parsed;
   };
+
 
 
 
@@ -142,7 +155,7 @@ function App() {
                   <Grid item xs={12} sm={6} md={4} key={q.id}>
                     <FormControl component="fieldset" style={{ marginBottom: "20px" }}>
                       <FormLabel component="legend" style={{ fontWeight: "bold" }}>
-                        {q.id}.
+                        {q.id}. {q.question || ""}
                       </FormLabel>
                       <RadioGroup onChange={(e) => handleChange(q.id, e.target.value)}>
                         {Object.entries(q.options).map(([key, value]) => (
