@@ -1,3 +1,4 @@
+import { Grid } from "@mui/material";
 import React, { useState, useEffect } from "react";
 import { Container, Typography, Button, Radio, RadioGroup, FormControlLabel, FormControl, FormLabel } from "@mui/material";
 
@@ -55,7 +56,7 @@ function App() {
   const parseAnswers = (text) => {
     let answers = {};
     text.split("\n").forEach((line) => {
-      const match = line.match(/^(\d+)\.\s([A-D])$/);
+      const match = line.match(/^\s*(\d+)\.\s*([A-D])\s*$/);
       if (match) answers[match[1]] = match[2];
     });
     return answers;
@@ -67,30 +68,54 @@ function App() {
 
   const handleSubmit = () => {
     let totalScore = 0;
+
+    console.log("Questions:", questions);
+    console.log("User Answers:", answers);
+    console.log("Correct Answers:", correctAnswers);
+
     questions.forEach((q) => {
-      if (answers[q.id] === correctAnswers[q.id]) totalScore++;
+      let userAnswer = answers[q.id]; // Get the user's selected answer
+      let correctAnswer = correctAnswers[q.id]; // Get the correct answer
+
+      console.log(`Q${q.id}: User Answer = ${userAnswer}, Correct Answer = ${correctAnswer}`);
+
+      if (userAnswer && userAnswer.trim() === correctAnswer?.trim()) {
+        totalScore++; // Only count if answer exists and is correct
+      }
     });
+
+    console.log("Final Score:", totalScore);
     setScore(totalScore);
   };
+
+
+
 
   return (
       <Container>
         <Typography variant="h4" gutterBottom>TOEIC Practice Test</Typography>
 
         {questions.length > 0 ? (
-            questions.map((q) => (
-                <FormControl key={q.id} component="fieldset" style={{ marginBottom: "20px" }}>
-                  <FormLabel component="legend">{q.question}</FormLabel>
-                  <RadioGroup onChange={(e) => handleChange(q.id, e.target.value)}>
-                    {Object.entries(q.options).map(([key, value]) => (
-                        <FormControlLabel key={key} value={key} control={<Radio />} label={value} />
-                    ))}
-                  </RadioGroup>
-                </FormControl>
-            ))
+            <Grid container spacing={3}>
+              {questions.map((q, index) => (
+                  <Grid item xs={4} key={q.id}> {/* xs={4} makes 3 columns per row */}
+                    <FormControl component="fieldset" style={{ marginBottom: "20px" }}>
+                      <FormLabel component="legend" style={{ fontWeight: "bold" }}>
+                        {q.id}. {q.question}
+                      </FormLabel>
+                      <RadioGroup onChange={(e) => handleChange(q.id, e.target.value)}>
+                        {Object.entries(q.options).map(([key, value]) => (
+                            <FormControlLabel key={key} value={key} control={<Radio />} label={value} />
+                        ))}
+                      </RadioGroup>
+                    </FormControl>
+                  </Grid>
+              ))}
+            </Grid>
         ) : (
             <Typography>Loading questions...</Typography>
         )}
+
 
         <Button variant="contained" color="primary" onClick={handleSubmit} style={{ marginTop: "20px" }}>
           Submit
