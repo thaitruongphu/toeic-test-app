@@ -177,10 +177,13 @@ function App() {
 
         {/* 🔹 Dropdown to select a test */}
         <Select value={selectedTest} onChange={handleTestChange} style={{ marginBottom: "20px" }}>
-          <MenuItem value="Test1">Test 1</MenuItem>
-          <MenuItem value="Test2">Test 2</MenuItem>
-          <MenuItem value="Test3">Test 3</MenuItem>
+          {Array.from({ length: 10 }, (_, i) => (
+              <MenuItem key={i + 1} value={`Test${i + 1}`}>
+                Test {i + 1}
+              </MenuItem>
+          ))}
         </Select>
+
 
         {/* 🔹 Add Tabs for Part I - IV */}
         <Tabs value={selectedPart} onChange={handleTabChange}>
