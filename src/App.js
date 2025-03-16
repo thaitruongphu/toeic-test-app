@@ -177,7 +177,7 @@ function App() {
 
         {/* 🔹 Dropdown to select a test */}
         <Select value={selectedTest} onChange={handleTestChange} style={{ marginBottom: "20px" }}>
-          {Array.from({ length: 11 }, (_, i) => (
+          {Array.from({ length: 12 }, (_, i) => (
               <MenuItem key={i + 1} value={`Test${i + 1}`}>
                 Test {i + 1}
               </MenuItem>
