@@ -82,7 +82,7 @@ function App() {
   };
 
   const handleChange = (questionId, answer) => {
-    setAnswers({ ...answers, [questionId]: answer });
+    setAnswers((prevAnswers) => ({ ...prevAnswers, [questionId]: answer }));
   };
 
   const handleTabChange = (event, newValue) => {
@@ -207,9 +207,17 @@ function App() {
                       <FormLabel component="legend" style={{ fontWeight: "bold" }}>
                         {q.id}. {q.question || ""}
                       </FormLabel>
-                      <RadioGroup onChange={(e) => handleChange(q.id, e.target.value)}>
+                      <RadioGroup
+                          value={answers[q.id] || ""} // Set the selected value based on stored answers
+                          onChange={(e) => handleChange(q.id, e.target.value)}
+                      >
                         {Object.entries(q.options).map(([key, value]) => (
-                            <FormControlLabel key={key} value={key} control={<Radio />} label={value} />
+                            <FormControlLabel
+                                key={key}
+                                value={key}
+                                control={<Radio />}
+                                label={value}
+                            />
                         ))}
                       </RadioGroup>
                     </FormControl>
