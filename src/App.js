@@ -198,32 +198,119 @@ function App() {
           Current Part: {selectedPart} | Total Questions: {questions.length} | Filtered: {questions.filter((q) => q.part === selectedPart).length}
         </Typography>
 
-        <Grid container spacing={3}>
-          {questions
-              .filter((q) => q.part === selectedPart)
-              .map((q) => (
-                  <Grid item xs={12} sm={6} md={4} key={q.id}>
-                    <FormControl component="fieldset" style={{ marginBottom: "20px" }}>
-                      <FormLabel component="legend" style={{ fontWeight: "bold" }}>
-                        {q.id}. {q.question || ""}
-                      </FormLabel>
-                      <RadioGroup
-                          value={answers[q.id] || ""} // Set the selected value based on stored answers
-                          onChange={(e) => handleChange(q.id, e.target.value)}
-                      >
-                        {Object.entries(q.options).map(([key, value]) => (
-                            <FormControlLabel
-                                key={key}
-                                value={key}
-                                control={<Radio />}
-                                label={value}
-                            />
-                        ))}
-                      </RadioGroup>
-                    </FormControl>
-                  </Grid>
-              ))}
-        </Grid>
+        {["PART III", "PART IV"].includes(selectedPart) ? (
+            <>
+              {(() => {
+                const filtered = questions.filter((q) => q.part === selectedPart);
+                const chunks = [];
+
+                // Divide into chunks of 16: 8 left + 8 right
+                for (let i = 0; i < filtered.length; i += 16) {
+                  chunks.push(filtered.slice(i, i + 16));
+                }
+
+                return chunks.map((chunk, chunkIndex) => {
+                  const left = chunk.slice(0, 8);
+                  const right = chunk.slice(8, 16);
+
+                  return (
+                      <React.Fragment key={chunkIndex}>
+                        {/* ⬇️ Wrap both left/right columns in a Grid container */}
+                        <Grid container spacing={3}>
+                          <Grid item xs={12} sm={6}>
+                            <div style={{ display: "flex", flexDirection: "column" }}>
+                              {left.map((q) => (
+                                  <div style={{ marginBottom: "10px", width: "100%" }} key={q.id}>
+                                    <FormControl component="fieldset" style={{ width: "100%" }}>
+                                      <FormLabel component="legend" style={{ fontWeight: "bold" }}>
+                                        {q.id}. {q.question || ""}
+                                      </FormLabel>
+                                      <RadioGroup
+                                          value={answers[q.id] || ""}
+                                          onChange={(e) => handleChange(q.id, e.target.value)}
+                                      >
+                                        {Object.entries(q.options).map(([key, value]) => (
+                                            <FormControlLabel
+                                                key={key}
+                                                value={key}
+                                                control={<Radio />}
+                                                label={value}
+                                            />
+                                        ))}
+                                      </RadioGroup>
+                                    </FormControl>
+                                  </div>
+                              ))}
+                            </div>
+                          </Grid>
+
+                          <Grid item xs={12} sm={6}>
+                            <div style={{ display: "flex", flexDirection: "column" }}>
+                              {right.map((q) => (
+                                  <div style={{ marginBottom: "10px", width: "100%" }} key={q.id}>
+                                    <FormControl component="fieldset" style={{ width: "100%" }}>
+                                      <FormLabel component="legend" style={{ fontWeight: "bold" }}>
+                                        {q.id}. {q.question || ""}
+                                      </FormLabel>
+                                      <RadioGroup
+                                          value={answers[q.id] || ""}
+                                          onChange={(e) => handleChange(q.id, e.target.value)}
+                                      >
+                                        {Object.entries(q.options).map(([key, value]) => (
+                                            <FormControlLabel
+                                                key={key}
+                                                value={key}
+                                                control={<Radio />}
+                                                label={value}
+                                            />
+                                        ))}
+                                      </RadioGroup>
+                                    </FormControl>
+                                  </div>
+                              ))}
+                            </div>
+                          </Grid>
+                        </Grid>
+
+                        {/* Spacing between chunks */}
+                        <div style={{ height: "40px" }} />
+                      </React.Fragment>
+                  );
+                });
+
+              })()}
+            </>
+        ) : (
+            // 🔸 Use normal layout for PART I & II
+            <Grid container spacing={3}>
+              {questions
+                  .filter((q) => q.part === selectedPart)
+                  .map((q) => (
+                      <Grid item xs={12} sm={6} md={4} key={q.id}>
+                        <FormControl component="fieldset" style={{ marginBottom: "20px" }}>
+                          <FormLabel component="legend" style={{ fontWeight: "bold" }}>
+                            {q.id}. {q.question || ""}
+                          </FormLabel>
+                          <RadioGroup
+                              value={answers[q.id] || ""}
+                              onChange={(e) => handleChange(q.id, e.target.value)}
+                          >
+                            {Object.entries(q.options).map(([key, value]) => (
+                                <FormControlLabel
+                                    key={key}
+                                    value={key}
+                                    control={<Radio />}
+                                    label={value}
+                                />
+                            ))}
+                          </RadioGroup>
+                        </FormControl>
+                      </Grid>
+                  ))}
+            </Grid>
+        )}
+
+
 
         <Button variant="contained" color="primary" onClick={handleSubmit} style={{ marginTop: "20px" }}>
           Submit
