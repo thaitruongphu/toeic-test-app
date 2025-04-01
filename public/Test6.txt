@@ -233,604 +233,365 @@ PART II
 
 PART III
 
-41. Where most likely does this conversation take place?
-
-(A) A T-shirt supplier's
-
-(B) A clothing store
-
-(C) A dry cleaner's
-
-(D) A fashion show
-
-42. What does the woman say about the item?
-
-(A) The store has nearly run out.
-
-(B) The production is behind schedule.
-
-(C) Many large shirts are on the shelves.
-
-(D) There are no medium-sized shirts.
-
-43. What does the man intend to do?
-
-(A) Request a special delivery
-
-(B) Contact the T-shirt supplier
-
-(C) Purchase a smaller item
-
-(D) Continue looking around
-
-44. What are the speakers discussing?
-
-(A) The office's water supply
-
-(B) A food delivery service
-
-(C) A broken piece of equipment
-
-(D) The company's plumbing system
-
-45. What does the woman suggest that the man do?
-
-(A) Order extra bottles this time
-
-(B) Turn up the office air conditioner
-
-(C) Get the goods delivered early
-
-(D) Source a new water supplier
-
-46. When does the man want to get the supplier in?
-
-(A) Later today
-
-(B) Tomorrow
-
-(C) In a couple of days
-
-(D) On Thursday
-
-47. Where most likely does this conversation take place?
-
-(A) A hospital
-
-(B) A doctor's office
-
-(C) A pharmacy
-
-(D) A public health center
-
-48. How often should the boy take the medication?
-
-(A) Once a day
-
-(B) Twice a day
-
-(C) Three times a day
-
-(D) Four times a day
-
-49. What does the woman recommend that the man do?
-
-(A) Take his son to see a doctor immediately
-
-(B) Monitor his son's condition carefully overnight
-
-(C) Reduce his son's dosage after a couple of days
-
-(D) Come back if his son's health doesn't improve
-
-50. What is the main topic of this conversation?
-
-(A) The annual company picnic
-
-(B) An informal gathering after work
-
-(C) A new line of alcoholic beverages
-
-(D) The employees' schedules
-
-51. Why does the man think he will be unable to join the woman tonight?
-
-(A) He has to attend a presentation.
-
-(B) He has a meeting with clients.
-
-(C) He has another personal appointment
-
-(D) He has to work on a big project.
-
-52. Who is the woman going to leave work with?
-
-(A) Sarah
-
-(B) Stan
-
-(C) Human Resources employees
-
-(D) Accounting employees
-
-53. Who is Paul Johnson?
-
-(A) A receptionist
-
-(B) A company director
-
-(C) A job candidate
-
-(D) A planning consultant
-
-54. What does the woman tell the man to do?
-
-(A) Wait while she contacts someone
-
-(B) Give her his résumé and cover letter
-
-(C) Head straight up for his interview
-
-(D) Go in and greet the directors
-
-55. Where will the man most likely go next?
-
-(A) The director's office
-
-(B) The waiting area
-
-(C) The restroom
-
-(D) The lobby
-
-56. Who most likely is the woman?
-
-(A) A health professional
-
-(B) Mr. Nesbitt's secretary
-
-(C) A personal fitness trainer
-
-(D) Mr. Nesbitt's business partner
-
-57. Why did Mr. Nesbitt cancel his appointment?
-
-(A) He is going away on a business trip.
-
-(B) He has an important business meeting
-
-(C) He is not feeling well at the moment.
-
-(D) He has a personal matter to attend to.
-
-58. What is the woman concerned about?
-
-(A) Mr. Nesbitt might not stick to his exercise plan.
-
-(B) She will not be paid for tomorrow's cancellation.
-
-(C) She might not be able to make it on Friday.
-
-(D) Mr. Nesbitt is running late for his appointment.
-
-59. What is the main purpose of the man's call?
-
-(A) To complain about the maintenance staff
-
-(B) To ask for a refund on a product
-
-(C) To request technical assistance
-
-(D) To order a new personal computer
-
-60. What does the man think is causing the problem?
-
-(A) He accidentally changed the settings.
-
-(B) The monitor is not working properly.
-
-(C) Another employee used his computer.
-
-(D) The hard drive is malfunctioning.
-
-61. Who is probably going to sort the problem out?
-
-(A) Jeff
-
-(B) Mr. Barkley
-
-(C) Todd
-
-(D) Ms. Gooden
-
-62. Where most likely does this conversation take place?
-
-(A) In a parking lot
-
-(B) At a movie theater
-
-(C) At a sports stadium
-
-(D) In a bus terminal
-
-63. How much does the woman pay for the tickets?
-
-(A) $5
-
-(B) $25
-
-(C) $45
-
-(D) $50
-
-64. What will the woman most likely do next?
-
-(A) Show the tickets to the receptionist
-
-(B) Complain about the stadium's policies
-
-(C) Have her backpack inspected
-
-(D) Leave her things with an attendant
-
-65. What are the speakers discussing?
-
-(A) A travel package
-
-(B) A Canadian Web site
-
-(C) A flight reservation
-
-(D) A tour operator
-
-66. How many spaces has the woman reserved?
-
-(A) 5
-
-(B) 3
-
-(C) 2
-
-(D) 1
-
-67. What will the woman most likely tell the man next?
-
-(A) Her preferred payment method
-
-(B) Her previous booking number
-
-(C) Options available on the tour package
-
-(D) Details about the people in her party
-
-68. What is the main purpose of the man's call?
-
-(A) To confirm the repairs the woman wants made
-
-(B) To remind the woman to get her car serviced
-
-(C) To notify the woman of a problem with her vehicle
-
-(D) To inform the woman that her car is ready
-
-69. How will the woman get her vehicle back?
-
-(A) She will ask her secretary to get it.
-
-(B) She will have the keys sent to her.
-
-(C) She will send a colleague to collect it.
-
-(D) She will collect it on the way to work tomorrow.
-
-70. What information does the woman pass on to the man?
-
-(A) Her place of work
-
-(B) Her email address
-
-(C) Her office hours
-
-(D) Her cell phone number
+41. What are the speakers talking about?
+(A) A project deadline
+(B) A company event
+(C) A personnel change
+(D) A board meeting
+
+42. When will they probably start working on the report?
+(A) Thursday
+(B) Friday
+(C) Saturday
+(D) Sunday
+
+43. Why is the woman unavailable on Sunday?
+(A) She is going out of town
+(B) She has a family obligation
+(C) She has to go to work
+(D) She is going to the church
+
+44. Where does the man work?
+(A) At a real estate office
+(B) At a hotel
+(C) At a tour agency
+(D) At a conference center
+
+45. How much do double rooms with a view of the sea cost?
+(A) $85
+(B) $105
+(C) $145
+(D) $190
+
+46. What kind of room will the woman reserve?
+(A) An ocean-view suite
+(B) A double room
+(C) An ocean-view double
+(D) A single room
+
+47. What does the woman plan to do?
+(A) Transfer to a different department
+(B) Move to a new apartment
+(C) Work for a different company
+(D) Apply for a new job
+
+48. What happened last month?
+(A) The woman was denied a salary increase
+(B) The company hired some new workers
+(C) The woman was promoted to director
+(D) The company merged with another firm
+
+49. Who has worked for Tilton & Sons before?
+(A) Kevin
+(B) Franklin
+(C) Sandy
+(D) Tom
+
+50. Why did the man telephone the woman?
+(A) To inform her of an office function
+(B) To request some price information
+(C) To complain about a delivery delay
+(D) To purchase some work supplies
+
+51. How many nametags does the man need?
+(A) 11
+(B) 22
+(C) 35
+(D) 85
+
+52. What must the man do?
+(A) Call the woman by Wednesday
+(B) Pay a higher shipping price
+(C) Find a different delivery firm
+(D) Reduce the quantities in his order
+
+53. What does the woman offer the man?
+(A) Tickets to a sporting event
+(B) A free membership at an exercise club
+(C) Some medicine for his cold
+(D) An invitation to play with her team
+
+54. When is the man available to participate?
+(A) Tonight
+(B) Saturday
+(C) Sunday
+(D) Next week
+
+55. What problem does the man have today?
+(A) He has an illness
+(B) He has to leave town
+(C) He has a schedule conflict
+(D) He has to work late
+
+56. Why is the man calling?
+(A) To inform a customer of a new regulation
+(B) To advertise a financial service
+(C) To inquire about some missing information
+(D) To correct a detail from a previous conversation
+
+57. What caused the problem?
+(A) A lack of communication
+(B) A shipping delay
+(C) A mechanical error
+(D) A spelling mistake
+
+58. What will the woman do next?
+(A) Order some office supplies
+(B) Purchase a new fax machine
+(C) Complete a loan application form
+(D) Fax the document a second time
+
+59. What are they discussing?
+(A) A coworker's performance
+(B) Their progress in a training course
+(C) Their schedules for the week
+(D) An upcoming educational program
+
+60. How many sessions does the man have to make up?
+(A) 1
+(B) 2
+(C) 7
+(D) 8
+
+61. Why did the woman miss a session?
+(A) She went away on vacation
+(B) She was late to work
+(C) She was at a conference
+(D) She had an important meeting
+
+62. What kind of business does the man work for?
+(A) A caterer
+(B) A pizza shop
+(C) A courier service
+(D) A restaurant supplier
+
+63. Which topping will be on the pizza that costs $11?
+(A) Onions
+(B) Pepperoni
+(C) Mushrooms
+(D) Cheese
+
+64. How much will the woman pay in total?
+(A) $30
+(B) $41
+(C) $44
+(D) $47
+
+65. What did the woman win?
+(A) An essay contest
+(B) A photo competition
+(C) A lottery
+(D) A scholarship
+
+66. Who handled the woman's entry?
+(A) Mark
+(B) Susan
+(C) Steve
+(D) Karen
+
+67. What will the speakers probably do next?
+(A) Look through the album
+(B) Visit the shopping center
+(C) Have their photos taken together
+(D) Collect the woman's prize
+
+68. When was the merchandise shipped?
+(A) September 2
+(B) September 10
+(C) September 14
+(D) September 18
+
+69. Who most likely is the man?
+(A) An equipment repairperson
+(B) The woman's coworker
+(C) A hardware supplier
+(D) The woman's supervisor
+
+70. What does the man offer to do?
+(A) Send the merchandise by rush delivery
+(B) Apply a discount to a future order
+(C) Upgrade the woman's products
+(D) Refund the shipping charge immediately
 
 PART IV
 
-71. What is the purpose of the man's call?
 
-(A) To make a reservation
-
-(B) To inquire about an emergency
-
-(C) To reschedule an appointment
-
-(D) To warn listeners about the traffic
-
-72. When is the man next available?
-
-(A) This afternoon
-
-(B) Later in the week
-
-(C) On the weekend
-
-(D) Next week
-
-73. What does the man want the listener to do?
-
-(A) Return his call
-
-(B) Confirm today's schedule
-
-(C) Forward him an email
-
-(D) Send him his bill
-
-74. For whom is this talk most likely intended?
-
-(A) Office employees
-
-(B) Paper suppliers
-
-(C) Environmental campaigners"
-
-(D) Company shareholders
-
-75. Why is the company adopting a new policy on paper usage?
-
-(A) To comply with environmental regulations
-
-(B) To cut down on clutter around the office
-
-(C) To save on office stationery expenditure
-
-(D) To protect private company documents
-
-76. What are listeners asked to do?
-
-(A) Use only their personal printers
-
-(B) Destroy all unnecessary documents
-
-(C) Recycle old boxes
-
-(D) Reuse old printing paper
-
-77. For whom is this recorded message intended?
-
-(A) Maintenance technicians
-
-(B) Clients
-
-(C) Models
-
-(D) Customer representatives
-
-78. What are callers instructed to do?
-
-(A) List their machine's model number
-
-(B) Call the manager directly
-
-(C) Record their contact details
-
-(D) Come in during business hours
-
-79. How else can callers contact the company?
-
-(A) Via email
-
-(B) By fax
-
-(C) In person
-
-(D) On the Web site
-
-80. What is the main topic of this broadcast?
-
-(A) A natural disaster
-
-(B) A stock market crash
-
-(C) A traffic report
-
-(D) A rail accident
-
-81. How many people were taken to hospital?
-
-(A) 2
-
-(B) 7
-
-(C) 10
-
-(D) 12
-
-82. What caused the problem?
-
-(A) Poor railroad maintenance
-
-(B) Mechanical defects
-
-(C) An obstruction on the tracks
-
-(D) A driver's mistake
-
-83. What is being advertised?
-
-(A) A vacuum cleaner
-
-(B) A filing system
-
-(C) An inkjet printer
-
-(D) A wooden desk
-
-84. What is special about the Office Magician's design?
-
-(A) It is set up in a very convenient way.
-
-(B) It can be separated into smaller pieces.
-
-(C) It has a space for a laptop.
-
-(D) It includes attractive decorations.
-
-85. How much is the product being offered for this week?
-
-(A) $25.50
-
-(B) $20.99
-
-(C) $20.50
-
-(D) $18.99
-
-86. What is the main purpose of this broadcast?
-
-(A) To critique a newly released movie
-
-(B) To invite listeners to call the studio
-
-(C) To introduce the guest for the day
-
-(D) To promote a new blockbuster
-
-87. What are Mr. Stevens' movies normally associated with?
-
-(A) Spectacular special effects
-
-(B) Romantic storylines
-
-(C) Low-budget productions
-
-(D) Complex plots.
-
-88. Who provided most of the finance for the director's latest movie?
-
-(A) A large Hollywood studio
-
-(B) The director himself
-
-(C) A group of independent film-makers
-
-(D) An unknown investor
-
-89. What is this message mainly about?
-
-(A) An order made by a customer
-
-(B) A defective piece of furniture
-
-(C) The company's refunds policy
-
-(D) The customer's email address
-
-90. What problem does the woman have?
-
-(A) The customer's details are not on the mailing list.
-
-(B) The order was sent to the wrong address.
-
-(C) The steel bookcase is no longer available.
-
-(D) The customer is listed under two addresses.
-
-91. How can the customer help her solve the problem?
-
-(A) By resubmitting an order form
-
-(B) By contacting her to confirm his details
-
-(C) By selecting another item on the catalog
-
-(D) By registering on the company website
-
-92. What is the main topic of this announcement?
-
-(A) The closure of the museum
-
-(B) A sale on at the souvenir shop
-
-(C) The opening of a new exhibit
-
-(D) An upcoming tour of the facility
-
-93. What will be distributed in around 5 minutes?
-
-(A) Museum tickets
-
-(B) Information packets
-
-(C) Tour refunds
-
-(D) Refreshments
-
-94. Who should go to the cashier's desk?
-
-(A) People who haven't already paid for the tour
-
-(B) Customers who used the broken vending machine
-
-(C) Patrons who want to have their tickets refunded
-
-(D) Tourists who didn't receive information packets
-
-95. Where is this announcement being made?
-
-(A) At a cooking show
-
-(B) At a radio station
-
-(C) At a financial conference
-
-(D) At a public hearing
-
-96. What will happen in 25 minutes?
-
-(A) Refreshments will be served.
-
-(B) The pastries will be ready.
-
-(C) The event will finish.
-
-(D) A presenter will begin.
-
-97. What will happen during the break?
-
-(A) The convention hall will be renovated.
-
-(B) The seating area will be cleaned.
-
-(C) The attendees' belongings will be stored.
-
-(D) The convention hall staff will be trained.
-
-98. What is the main purpose of this speech?
-
-(A) To discuss the recent state elections
-
-(B) To promote a local newspaper
-
-(C) To announce an industry award winner
-
-(D) To congratulate a group of candidates
-
-99. Who judged the competition?
-
-(A) Previous winners
-
-(B) Experienced journalists
-
-(C) Chicago Weekly executives
-
-(D) The people of Illinois
-
-100. What most likely will happen next?
-
-(A) Ms. Taylor will take a seat.
-
-(B) The judges will announce their decision.
-
-(C) A journalist will receive an award.
-
-(D) A new presenter will go on stage
+71. Where is this announcement being made?
+(A) At a train station
+(B) At an airport
+(C) At a movie theater
+(D) At a ferry terminal
+
+72. When is the next departure?
+(A) 11:15
+(B) 2:00
+(C) 4:45
+(D) 6:30
+
+73. What can listeners do at the ticket office?
+(A) Get their money back
+(B) Make a reservation
+(C) Exchange their tickets
+(D) Inquire about the schedule
+
+74. What is the woman doing?
+(A) Making preparations for a conference
+(B) Describing some research she conducted
+(C) Booking a room at a hotel
+(D) Outlining the agenda of a meeting
+
+75. How many people can a Turner hotel conference room hold?
+(A) 100
+(B) 200
+(C) 350
+(D) 500
+
+76. What does the woman suggest?
+(A) Constructing more conference facilities
+(B) Merging with the hotel's competitor
+(C) Limiting the size of all conferences
+(D) Changing the location of an event
+
+77. What is happening next Saturday?
+(A) A store is going out of business
+(B) An annual sale is beginning
+(C) New merchandise is being delivered
+(D) Photography lessons are being given
+
+78. When will Harvey’s Film and Camera World close next week?
+(A) 8:00 P.M.
+(B) 8:30 P.M.
+(C) 9:45 P.M.
+(D) 10:00 P.M.
+
+79. How much will the Harpoon Lazer camera cost?
+(A) $18.99
+(B) $25.00
+(C) $76.49
+(D) $90.00
+
+80. What is the purpose of the man's speech?
+(A) To present an award
+(B) To thank a hospital’s staff
+(C) To introduce a speaker
+(D) To announce a future event
+
+81. How long has Dr. Sandoval worked at Midtown Hospital?
+(A) 8 years
+(B) 10 years
+(C) 24 years
+(D) 30 years
+
+82. What will Dr. Sandoval discuss?
+(A) Recent improvements to hospitals
+(B) Ways to solve current healthcare problems
+(C) The difficulties of doing medical research
+(D) Her long career in the healthcare field
+
+83. Why is the woman calling?
+(A) To complain about a late payment
+(B) To report a mistake on a customer invoice
+(C) To advertise her company’s services
+(D) To request some customer details
+
+84. When was the bill returned?
+(A) June 13
+(B) June 20
+(C) June 24
+(D) June 30
+
+85. What does Ms. Roberts ask the man to do?
+(A) Disregard all late fees
+(B) Return her call soon
+(C) Visit the post office
+(D) Confirm a phone number
+
+86. Who most likely is the speaker?
+(A) An artist
+(B) A cafeteria worker
+(C) A government official
+(D) A tour guide
+
+87. What does the speaker instruct listeners to do?
+(A) Wear security badges
+(B) Turn off their camera flashes
+(C) Follow him closely
+(D) Refrain from eating and drinking
+
+88. Where will listeners go first?
+(A) The congressional hall
+(B) The portrait gallery
+(C) The Senate cafeteria
+(D) The security department
+
+89. What is mentioned about the company?
+(A) It has grown rapidly
+(B) It is building a second factory
+(C) It has a new CEO
+(D) It is ranked fifth in its market
+
+90. Who is the speaker addressing?
+(A) Members of the sales department
+(B) A group of company customers
+(C) The board of directors
+(D) An assembly of shareholders
+
+91. What will listeners receive?
+(A) An additional bonus
+(B) Free company products
+(C) Three paid days off
+(D) Yearly salary increases
+
+92. Who will discuss new company products?
+(A) Bernice Johnson
+(B) Carl Clayton
+(C) James Poole
+(D) Anne Townsend
+
+93. What can listeners do in the room next door?
+(A) Get a plate of food
+(B) Enjoy light entertainment
+(C) Help themselves to a drink
+(D) View the contest
+
+94. What will happen next?
+(A) Employee awards will be announced
+(B) Microphones will be distributed
+(C) A marketing talk will be given
+(D) A talent competition will begin
+
+95. Who is the speaker describing?
+(A) The winner of a drama contest
+(B) A person he will interview
+(C) A critic he met
+(D) The director of a movie
+
+96. When did Ms. Jackson first appear in movies?
+(A) 1989
+(B) 1990
+(C) 2002
+(D) 2003
+
+97. Which was Ms. Jackson’s acting debut?
+(A) Other Colors
+(B) The Drama Club
+(C) A Former Affair
+(D) Two Bridges
+
+98. What is being advertised?
+(A) A gymnasium
+(B) A health insurance plan
+(C) A diet program
+(D) An exercise machine
+
+99. How can someone get a discount on an entry-level membership?
+(A) By calling today
+(B) By signing up with a friend
+(C) By enrolling this month
+(D) By signing a year-long contract
+
+100. What is included in the gold-level membership?
+(A) A book about home fitness
+(B) Access to an outdoor swimming pool
+(C) Discounted admission to sports events
+(D) Assistance from fitness experts
