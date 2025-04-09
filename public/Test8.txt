@@ -2,17 +2,17 @@ Test 1
 
 LISTENING TEST
 
-In the listening test you will be asked to demonstrate how well you understand spoken English.  The entire Listening test will last approximately 45 minutes.  There are four parts, and directions are given for each part.  You must mark your answers on the separate answer sheet.  Do not write your answers in the test book.    
+In the listening test you will be asked to demonstrate how well you understand spoken English.  The entire Listening test will last approximately 45 minutes.  There are four parts. and directions are given for each part.  You must mark your answers on the separate answer sheet.  Do not write your answers in the test book.    
 
 PART I
 
-Directions: For each question in this part, you will hear four statements about a picture in your test book.  When you hear the statements, you must select the one statement that best describes what you see in the picture.  Then find the number of the question on your answer sheet and mark your answer.  The statement will not be printed in your test book and will be spoken only one time.   
+Directions: For each question in this part. you will hear four statements about a picture in your test book.  When you hear the statements. you must select the one statement that best describes what you see in the picture.  Then find the number of the question on your answer sheet and mark your answer.  The statement will not be printed in your test book and will be spoken only one time.   
 
 Example:
 
 STAY AHEAD
 
-Statement (B), "They're talking in group," is the best description of the picture, so you should select answer (B) and mark it on your answer sheet.   
+Statement (B). "They're talking in group," is the best description of the picture. so you should select answer (B) and mark it on your answer sheet.   
 
 Litter
 
@@ -292,7 +292,7 @@ take place?
 (C) A more efficient kind of transportation
 (D) A discounted item
 
-47, Where are the people most likely
+47. Where are the people most likely
 talking?
 
 (A) At a coffee shop
@@ -303,7 +303,7 @@ talking?
 
 (D) At an electronics store
 
-48, What does the woman mention about
+48. What does the woman mention about
 business?
 
 (A) It is famous.
@@ -314,7 +314,7 @@ business?
 
 (D) It is quite busy.
 
-49, What does the woman tell the man to do?
+49. What does the woman tell the man to do?
 (A) Use the machine himself using the
 directions
 
@@ -341,7 +341,7 @@ directions
 
 (D) Customer service representative
 
-52, What does the man ask the woman to
+52. What does the man ask the woman to
 do?
 
 (A) Complete a visitor's form
@@ -414,7 +414,7 @@ for Indonesia?
 
 (D) Telephone his co-worker
 
-59, What does the man state about his work?
+59. What does the man state about his work?
 (A) It's not interesting.
 
 (B) Its hard.
@@ -505,7 +505,7 @@ product?
 
 (B) New office wiring
 
-©) A move to a new location
+(C) A move to a new location
 
 (D) A financial analysis
 
@@ -540,7 +540,7 @@ PART IV
 
 (D) An economics expert
 
-72, According to the speaker, what will
+72. According to the speaker. what will
 happen next month?
 
 (A) The sale will begin.
@@ -561,7 +561,7 @@ audience do?
 (C) Talk to a financial analyst
 
 (D) Go on a vacation to someplace warm
-74, Who is this message meant for?
+74. Who is this message meant for?
 
 (A) Bookstore customers
 
@@ -612,7 +612,7 @@ Trinity Tower?
 
 (D) It holds tax offices.
 
-79, What will the speaker probably do next?
+79. What will the speaker probably do next?
 (A) Go to a big plaza
 
 (B) Ask for tax advice
@@ -630,7 +630,7 @@ Trinity Tower?
 
 (D) To reschedule a conference
 
-81. Who is Ms, Takahashi?
+81. Who is Ms. Takahashi?
 
 (A) A technology department director
 
@@ -701,7 +701,7 @@ announcement?
 
 (D) On Thursday
 
-88. According to the speaker, what is the
+88. According to the speaker. what is the
 card needed for?
 
 (A) Talking to supervisors
@@ -738,7 +738,7 @@ QB) Call a different number
 
 (D) Wait for a travel representative
 
-92, What is the purpose of the talk?
+92. What is the purpose of the talk?
 (A) To tell about different kinds of paint
 (B) To show how a piece of equipment works
 (C) To sell a special painting tool
@@ -806,7 +806,7 @@ do?
 
 (D) A supermarket cashier
 
-99, What is the main topic of the talk?
+99. What is the main topic of the talk?
 (A) How cholesterol forms
 
 (B) Where to buy food
