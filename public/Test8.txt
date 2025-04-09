@@ -622,9 +622,9 @@ Trinity Tower?
 (D) Go to the top floor of a tower
 
 80. What is the purpose of this message?
-{A) To schedule an interview
+(A) To schedule an interview
 
-{B) To ask about a computer problem
+(B) To ask about a computer problem
 
 (C) To call attention to a problem
 
@@ -638,7 +638,7 @@ Trinity Tower?
 
 (C) A secretary
 
-D) A computer analyst
+(D) A computer analyst
 
 82. When will Ms. Takahashi go home
 today?
@@ -667,7 +667,7 @@ Co.?
 (B) Its ad campaign must be finished in six
 months.
 
-(D) It's considering merging with the company.
+(C) It's considering merging with the company.
 (D) Its organizational products and calendars
 are top quality.
 
