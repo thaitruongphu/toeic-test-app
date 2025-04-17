@@ -1,14 +1,12 @@
-You're right, copying directly from an image can be tricky! Here's the text again, in a format that should be easier to copy and paste:
-
-1. B
-2. C
-3. D
-4. A
-5. B
-6. D
-7. C
-8. A
-9. D
+ 1. B
+ 2. C
+ 3. D
+ 4. A
+ 5. B
+ 6. D
+ 7. C
+ 8. A
+ 9. D
 10. D
 11. C
 12. B
@@ -17,9 +15,9 @@ You're right, copying directly from an image can be tricky! Here's the text agai
 15. A
 16. C
 17. B
-18. B
-19. A
-20. C
+18. A
+19. C
+20. A
 21. C
 22. A
 23. A
@@ -32,7 +30,7 @@ You're right, copying directly from an image can be tricky! Here's the text agai
 30. A
 31. C
 32. C
-33. A
+33. C
 34. C
 35. A
 36. A
@@ -90,13 +88,13 @@ You're right, copying directly from an image can be tricky! Here's the text agai
 88. D
 89. C
 90. B
-91. B
-92. D
+91. D
+92. C
 93. A
-94. A
+94. D
 95. B
 96. C
 97. A
 98. B
-99. A
+99. C
 100. C
